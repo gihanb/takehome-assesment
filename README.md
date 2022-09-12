@@ -2,7 +2,8 @@
 
 <h3> Prerequisites </h3>
  
+    <h4> Following software has to be installed in your machine </h4> 
  <ol>
-  <li>Docker need to be on you machine including docker compose</li>
-  <li>curl and psql commands needs to be avilable </li>
+  <li>Docker + docker compose</li>
+  <li>curl and psql </li>
 </ol>
