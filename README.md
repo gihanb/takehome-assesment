@@ -18,3 +18,7 @@ Before that please check the prerequisits section.
 </ol>
 
 needs to be on your machine.
+
+<h3> Tested Environments </h3>
+
+Script is tested on both Mac and Ubuntu Machine so far.
