@@ -7,6 +7,12 @@ This repository will provide you an easy way of creating dev environment for you
   <li>Then run that script ./devenv_setup.sh </li>
 </ol>
 
+```
+takehome-assesment % ls
+README.md	docker		operations-task
+takehome-assesment % cd docker 
+docker % ./devenv_setup.sh 
+```
 Before that please check the prerequisits section.
 
 
