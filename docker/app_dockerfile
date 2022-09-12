@@ -1,0 +1,14 @@
+FROM python:3.8.14-slim-buster
+
+WORKDIR /app
+COPY rates/* .
+
+
+RUN DEBIAN_FRONTEND=noninteractive apt-get update \
+&& apt-get install -y python3-pip \
+&& python -m pip install --upgrade pip \
+&&  python -m pip install gunicorn \
+&& pip install -r requirements.txt
+
+CMD ["gunicorn","-b",":3000","wsgi"]
+#CMD ["sleep","6000"]
