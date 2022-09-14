@@ -197,11 +197,10 @@ did_db=$(docker ps -q -f name=rate-db)
 
 echo "${GREEN} DB health Check"
 
-if [[ $username != "postgres" ]];then
-   docker exec $did_db psql -h localhost -U $username -c "SELECT 'alive'"
-else
-   docker exec $did_db psql -h localhost -U postgres -c "SELECT 'alive'"
-fi
+dbuser=$(head -n 1 .env | cut -d "=" -f 2)
+
+docker exec $did_db psql -h localhost -U $dbuser -c "SELECT 'alive'"
+
 
 echo "${GREEN} You are ready to go"
 ```
