@@ -2,11 +2,11 @@
 
 <h3>Intro</h3>
 
-The motivation behind to implement this solution is to create a simple way to deploy the application for development team. 
+The motivation behind implementing this solution is to create a simple way to deploy the application for the development team.
 
-With above note, this repository facilitate you to deploy the testable application without having much of a hassle with technologies. Hence this solution used most known softwares to deploy this two components with ease. All you need to have is docker, psql (client is enough) and curl. Mostly these tools may already available in your machine.
+With the above note, this repository facilitates you to deploy the testable application without having much of a hassle with technologies. Hence this solution used most known softwares to deploy these two components with ease. All you need to have is docker, psql (client is enough) and curl. Mostly these tools may already be available in your machine.
 
-Solution implemented using docker compose and bash scripts. compose consists with two services called api and db.
+Solution implemented using docker compose and bash scripts. compose consists of two services called api and db.
 
 <h3> Prerequisites </h3>
  
@@ -31,19 +31,19 @@ README.md	docker		operations-task
 takehome-assesment % cd docker 
 docker % ./devenv_setup.sh 
 ```
-Once you run the script. It will run the docker compose and will deploy the application. 
+Once you run the script. It will run the docker compose and will deploy the application.
 
-Note -: If you are a first time runner and the question asked at the mid of the script you can go with either options. Since still there is no db volumes created.
-But from second time you choose based on your requirement. 
+Note -: If you are a first time runner and the question asked at the mid of the script you can go with either option. Since still there are no db volumes created.
+But from the second time you choose based on your requirement.
 
-eg -: Let's say you have new rates.sql file to load. Then you have to remove the exsisting db volumes.
+eg -: Let's say you have new rates.sql file to load. Then you have to remove the existing db volumes.
 
 ```
  Do you need the old db volumes to be stay ?  y or n 
 n
 ```
 
-That all for basic run...
+That's all for the basic run...
 
 Generally you are free to do any change related to code change or data related change.
 
@@ -52,7 +52,7 @@ Please make sure not to change file names. Since bash script is sensitive to fil
 
 <h3> Customizations Available </h3>
 
-You can define databse username and passwords as you like via command line parameters and default username and password are on the application configuration file.
+You can define database username and passwords as you like via command line parameters and default username and password are on the application configuration file.
 
 1st argument will be username and second argument will be the password
 
@@ -82,17 +82,17 @@ DB_HOST=localhost
 ```
 
 
-Here both application configuration and docker environment files will change. At the moment both host and port not avilable for change via commandline arguments.
+Here both application configuration and docker environment files will change. At the moment both host and port are not available for change via command line arguments.
 
 host -: Docker compose template service value and mostly it's static
 
-port -: port can include into commandline arguments but it's a 5432.It is general port for postgres.
+port -: port can be included into command line arguments but it's a 5432.It is a general port for postgres.
 
 <h3> Tested Environments </h3>
 
 Script is tested on both Mac and Ubuntu Machine so far.
 
-Following section will briefly describe more about the script and what commands will run behind. Those will not mandatory to know for application deployment but for awareness purpose.
+Following section will briefly describe more about the script and what commands will run behind it. Those will not be mandatory to know for application deployment but for awareness purposes.
 
 <h3> Let's find out what ./devenv_setup.sh will do behind the scenes </h3>
 
