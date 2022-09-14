@@ -3080,3 +3080,611 @@ rate-db   | 2022-09-14 22:06:28.451 UTC [14772] FATAL:  role "postgres" does not
 rate-db   | 2022-09-14 22:06:33.768 UTC [14779] FATAL:  role "postgres" does not exist
 rate-db   | 2022-09-14 22:06:39.059 UTC [14786] FATAL:  role "postgres" does not exist
 rate-db   | 2022-09-14 22:06:44.343 UTC [14793] FATAL:  role "postgres" does not exist
+db Pulling 
+9b3977197b4f Pulling fs layer 
+995a68b04f2b Pulling fs layer 
+e8a8bdf2ee5e Pulling fs layer 
+7bd50014bc89 Pulling fs layer 
+6abcd8432ed1 Pulling fs layer 
+2192c492dfac Pulling fs layer 
+70094a0d5274 Pulling fs layer 
+a5706c2f7588 Pulling fs layer 
+6abcd8432ed1 Waiting 
+2192c492dfac Waiting 
+70094a0d5274 Waiting 
+a5706c2f7588 Waiting 
+7bd50014bc89 Waiting 
+995a68b04f2b Downloading [==============================>                    ]     758B/1.258kB
+9b3977197b4f Downloading [>                                                  ]  28.13kB/2.715MB
+e8a8bdf2ee5e Downloading [==================================================>]     115B/115B
+e8a8bdf2ee5e Verifying Checksum 
+e8a8bdf2ee5e Download complete 
+995a68b04f2b Download complete 
+9b3977197b4f Downloading [==============>                                    ]  785.7kB/2.715MB
+9b3977197b4f Downloading [============================>                      ]  1.543MB/2.715MB
+9b3977197b4f Downloading [==========================================>        ]  2.296MB/2.715MB
+9b3977197b4f Verifying Checksum 
+9b3977197b4f Download complete 
+9b3977197b4f Extracting [>                                                  ]  32.77kB/2.715MB
+9b3977197b4f Extracting [=============================================>     ]   2.49MB/2.715MB
+9b3977197b4f Extracting [==================================================>]  2.715MB/2.715MB
+9b3977197b4f Extracting [==================================================>]  2.715MB/2.715MB
+9b3977197b4f Pull complete 
+995a68b04f2b Extracting [==================================================>]  1.258kB/1.258kB
+995a68b04f2b Extracting [==================================================>]  1.258kB/1.258kB
+995a68b04f2b Pull complete 
+e8a8bdf2ee5e Extracting [==================================================>]     115B/115B
+e8a8bdf2ee5e Extracting [==================================================>]     115B/115B
+e8a8bdf2ee5e Pull complete 
+6abcd8432ed1 Downloading [====>                                              ]     759B/9.025kB
+6abcd8432ed1 Download complete 
+7bd50014bc89 Downloading [>                                                  ]  540.7kB/76.32MB
+7bd50014bc89 Downloading [=>                                                 ]  1.596MB/76.32MB
+7bd50014bc89 Downloading [=>                                                 ]  2.665MB/76.32MB
+2192c492dfac Downloading [==================================================>]     129B/129B
+2192c492dfac Verifying Checksum 
+2192c492dfac Download complete 
+7bd50014bc89 Downloading [==>                                                ]  3.746MB/76.32MB
+7bd50014bc89 Downloading [===>                                               ]  4.827MB/76.32MB
+70094a0d5274 Downloading [==================================================>]     170B/170B
+70094a0d5274 Verifying Checksum 
+70094a0d5274 Download complete 
+7bd50014bc89 Downloading [===>                                               ]  5.892MB/76.32MB
+7bd50014bc89 Downloading [====>                                              ]  6.953MB/76.32MB
+7bd50014bc89 Downloading [=====>                                             ]  8.026MB/76.32MB
+a5706c2f7588 Downloading [========>                                          ]     759B/4.72kB
+a5706c2f7588 Downloading [==================================================>]   4.72kB/4.72kB
+a5706c2f7588 Verifying Checksum 
+a5706c2f7588 Download complete 
+7bd50014bc89 Downloading [=====>                                             ]  9.108MB/76.32MB
+7bd50014bc89 Downloading [======>                                            ]  10.19MB/76.32MB
+7bd50014bc89 Downloading [=======>                                           ]  11.26MB/76.32MB
+7bd50014bc89 Downloading [========>                                          ]  12.34MB/76.32MB
+7bd50014bc89 Downloading [========>                                          ]  13.42MB/76.32MB
+7bd50014bc89 Downloading [=========>                                         ]   14.5MB/76.32MB
+7bd50014bc89 Downloading [==========>                                        ]  15.57MB/76.32MB
+7bd50014bc89 Downloading [==========>                                        ]  16.64MB/76.32MB
+7bd50014bc89 Downloading [===========>                                       ]  17.72MB/76.32MB
+7bd50014bc89 Downloading [============>                                      ]   18.8MB/76.32MB
+7bd50014bc89 Downloading [=============>                                     ]  19.88MB/76.32MB
+7bd50014bc89 Downloading [=============>                                     ]  20.95MB/76.32MB
+7bd50014bc89 Downloading [==============>                                    ]  22.02MB/76.32MB
+7bd50014bc89 Downloading [===============>                                   ]  23.09MB/76.32MB
+7bd50014bc89 Downloading [===============>                                   ]  24.17MB/76.32MB
+7bd50014bc89 Downloading [================>                                  ]  25.25MB/76.32MB
+7bd50014bc89 Downloading [=================>                                 ]  26.32MB/76.32MB
+7bd50014bc89 Downloading [=================>                                 ]   27.4MB/76.32MB
+7bd50014bc89 Downloading [==================>                                ]  28.48MB/76.32MB
+7bd50014bc89 Downloading [===================>                               ]  29.56MB/76.32MB
+7bd50014bc89 Downloading [====================>                              ]  30.63MB/76.32MB
+7bd50014bc89 Downloading [====================>                              ]   31.7MB/76.32MB
+7bd50014bc89 Downloading [=====================>                             ]  32.77MB/76.32MB
+7bd50014bc89 Downloading [======================>                            ]  33.85MB/76.32MB
+7bd50014bc89 Downloading [======================>                            ]  34.92MB/76.32MB
+7bd50014bc89 Downloading [=======================>                           ]  36.01MB/76.32MB
+7bd50014bc89 Downloading [========================>                          ]  37.09MB/76.32MB
+7bd50014bc89 Downloading [========================>                          ]  38.16MB/76.32MB
+7bd50014bc89 Downloading [=========================>                         ]  39.22MB/76.32MB
+7bd50014bc89 Downloading [==========================>                        ]   40.3MB/76.32MB
+7bd50014bc89 Downloading [===========================>                       ]  41.38MB/76.32MB
+7bd50014bc89 Downloading [===========================>                       ]  42.47MB/76.32MB
+7bd50014bc89 Downloading [============================>                      ]  43.55MB/76.32MB
+7bd50014bc89 Downloading [=============================>                     ]  44.62MB/76.32MB
+7bd50014bc89 Downloading [=============================>                     ]  45.68MB/76.32MB
+7bd50014bc89 Downloading [==============================>                    ]  46.76MB/76.32MB
+7bd50014bc89 Downloading [===============================>                   ]  47.83MB/76.32MB
+7bd50014bc89 Downloading [================================>                  ]   48.9MB/76.32MB
+7bd50014bc89 Downloading [================================>                  ]  49.99MB/76.32MB
+7bd50014bc89 Downloading [=================================>                 ]  51.06MB/76.32MB
+7bd50014bc89 Downloading [==================================>                ]  52.14MB/76.32MB
+7bd50014bc89 Downloading [==================================>                ]  53.22MB/76.32MB
+7bd50014bc89 Downloading [===================================>               ]   54.3MB/76.32MB
+7bd50014bc89 Downloading [====================================>              ]  55.37MB/76.32MB
+7bd50014bc89 Downloading [====================================>              ]  56.45MB/76.32MB
+7bd50014bc89 Downloading [=====================================>             ]  57.52MB/76.32MB
+7bd50014bc89 Downloading [======================================>            ]   58.6MB/76.32MB
+7bd50014bc89 Downloading [=======================================>           ]  59.68MB/76.32MB
+7bd50014bc89 Downloading [=======================================>           ]  60.76MB/76.32MB
+7bd50014bc89 Downloading [========================================>          ]  61.84MB/76.32MB
+7bd50014bc89 Downloading [=========================================>         ]   62.9MB/76.32MB
+7bd50014bc89 Downloading [=========================================>         ]  63.98MB/76.32MB
+7bd50014bc89 Downloading [==========================================>        ]  65.06MB/76.32MB
+7bd50014bc89 Downloading [===========================================>       ]  66.14MB/76.32MB
+7bd50014bc89 Downloading [============================================>      ]  67.22MB/76.32MB
+7bd50014bc89 Downloading [============================================>      ]  68.29MB/76.32MB
+7bd50014bc89 Downloading [=============================================>     ]  69.37MB/76.32MB
+7bd50014bc89 Downloading [==============================================>    ]  70.45MB/76.32MB
+7bd50014bc89 Downloading [==============================================>    ]  71.53MB/76.32MB
+7bd50014bc89 Downloading [===============================================>   ]  72.61MB/76.32MB
+7bd50014bc89 Downloading [================================================>  ]  73.69MB/76.32MB
+7bd50014bc89 Downloading [================================================>  ]  74.77MB/76.32MB
+7bd50014bc89 Downloading [=================================================> ]  75.85MB/76.32MB
+7bd50014bc89 Verifying Checksum 
+7bd50014bc89 Download complete 
+7bd50014bc89 Extracting [>                                                  ]  557.1kB/76.32MB
+7bd50014bc89 Extracting [===>                                               ]  5.014MB/76.32MB
+7bd50014bc89 Extracting [======>                                            ]  10.58MB/76.32MB
+7bd50014bc89 Extracting [==========>                                        ]  16.15MB/76.32MB
+7bd50014bc89 Extracting [==============>                                    ]  21.73MB/76.32MB
+7bd50014bc89 Extracting [=================>                                 ]   27.3MB/76.32MB
+7bd50014bc89 Extracting [====================>                              ]   31.2MB/76.32MB
+7bd50014bc89 Extracting [=======================>                           ]  35.65MB/76.32MB
+7bd50014bc89 Extracting [==========================>                        ]  40.67MB/76.32MB
+7bd50014bc89 Extracting [==============================>                    ]  46.24MB/76.32MB
+7bd50014bc89 Extracting [=================================>                 ]  51.25MB/76.32MB
+7bd50014bc89 Extracting [====================================>              ]  55.71MB/76.32MB
+7bd50014bc89 Extracting [=======================================>           ]  60.16MB/76.32MB
+7bd50014bc89 Extracting [==========================================>        ]  65.18MB/76.32MB
+7bd50014bc89 Extracting [=============================================>     ]  70.19MB/76.32MB
+7bd50014bc89 Extracting [================================================>  ]  74.65MB/76.32MB
+7bd50014bc89 Extracting [==================================================>]  76.32MB/76.32MB
+7bd50014bc89 Pull complete 
+6abcd8432ed1 Extracting [==================================================>]  9.025kB/9.025kB
+6abcd8432ed1 Extracting [==================================================>]  9.025kB/9.025kB
+6abcd8432ed1 Pull complete 
+2192c492dfac Extracting [==================================================>]     129B/129B
+2192c492dfac Extracting [==================================================>]     129B/129B
+2192c492dfac Pull complete 
+70094a0d5274 Extracting [==================================================>]     170B/170B
+70094a0d5274 Extracting [==================================================>]     170B/170B
+70094a0d5274 Pull complete 
+a5706c2f7588 Extracting [==================================================>]   4.72kB/4.72kB
+a5706c2f7588 Extracting [==================================================>]   4.72kB/4.72kB
+a5706c2f7588 Pull complete 
+db Pulled 
+Network docker_default  Creating
+Network docker_default  Created
+Volume "docker_dbstore"  Creating
+Volume "docker_dbstore"  Created
+Container rate-db  Creating
+Container rate-db  Created
+Container rate-api  Creating
+Container rate-api  Created
+Attaching to rate-api, rate-db
+rate-db   | The files belonging to this database system will be owned by user "postgres".
+rate-db   | This user must also own the server process.
+rate-db   | 
+rate-db   | The database cluster will be initialized with locale "en_US.utf8".
+rate-db   | The default database encoding has accordingly been set to "UTF8".
+rate-db   | The default text search configuration will be set to "english".
+rate-db   | 
+rate-db   | Data page checksums are disabled.
+rate-db   | 
+rate-db   | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+rate-db   | creating subdirectories ... ok
+rate-db   | selecting dynamic shared memory implementation ... posix
+rate-db   | selecting default max_connections ... 100
+rate-db   | selecting default shared_buffers ... 128MB
+rate-db   | selecting default time zone ... UTC
+rate-db   | creating configuration files ... ok
+rate-db   | running bootstrap script ... ok
+rate-db   | performing post-bootstrap initialization ... sh: locale: not found
+rate-db   | 2022-09-14 22:27:03.136 UTC [30] WARNING:  no usable system locales were found
+rate-db   | ok
+rate-db   | syncing data to disk ... ok
+rate-db   | 
+rate-db   | 
+rate-db   | Success. You can now start the database server using:
+rate-db   | 
+rate-db   |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+rate-db   | 
+rate-db   | initdb: warning: enabling "trust" authentication for local connections
+rate-db   | You can change this by editing pg_hba.conf or using the option -A, or
+rate-db   | --auth-local and --auth-host, the next time you run initdb.
+rate-db   | waiting for server to start....2022-09-14 22:27:03.526 UTC [36] LOG:  starting PostgreSQL 13.5 on aarch64-unknown-linux-musl, compiled by gcc (Alpine 10.3.1_git20211027) 10.3.1 20211027, 64-bit
+rate-db   | 2022-09-14 22:27:03.527 UTC [36] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rate-db   | 2022-09-14 22:27:03.531 UTC [37] LOG:  database system was shut down at 2022-09-14 22:27:03 UTC
+rate-db   | 2022-09-14 22:27:03.534 UTC [36] LOG:  database system is ready to accept connections
+rate-db   |  done
+rate-db   | server started
+rate-db   | CREATE DATABASE
+rate-db   | 
+rate-db   | 
+rate-db   | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/pg_init.sql
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   |  set_config 
+rate-db   | ------------
+rate-db   |  
+rate-db   | (1 row)
+rate-db   | 
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | CREATE TABLE
+rate-db   | CREATE TABLE
+rate-db   | CREATE TABLE
+rate-db   | COPY 143
+rate-db   | COPY 56689
+rate-db   | COPY 20
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | 
+rate-db   | 
+rate-db   | waiting for server to shut down....2022-09-14 22:27:03.783 UTC [36] LOG:  received fast shutdown request
+rate-db   | 2022-09-14 22:27:03.785 UTC [36] LOG:  aborting any active transactions
+rate-db   | 2022-09-14 22:27:03.786 UTC [36] LOG:  background worker "logical replication launcher" (PID 43) exited with exit code 1
+rate-db   | 2022-09-14 22:27:03.786 UTC [38] LOG:  shutting down
+rate-db   | 2022-09-14 22:27:03.812 UTC [36] LOG:  database system is shut down
+rate-db   |  done
+rate-db   | server stopped
+rate-db   | 
+rate-db   | PostgreSQL init process complete; ready for start up.
+rate-db   | 
+rate-db   | 2022-09-14 22:27:03.902 UTC [1] LOG:  starting PostgreSQL 13.5 on aarch64-unknown-linux-musl, compiled by gcc (Alpine 10.3.1_git20211027) 10.3.1 20211027, 64-bit
+rate-db   | 2022-09-14 22:27:03.902 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+rate-db   | 2022-09-14 22:27:03.902 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+rate-db   | 2022-09-14 22:27:03.904 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rate-db   | 2022-09-14 22:27:03.907 UTC [52] LOG:  database system was shut down at 2022-09-14 22:27:03 UTC
+rate-db   | 2022-09-14 22:27:03.910 UTC [1] LOG:  database system is ready to accept connections
+rate-db   | 2022-09-14 22:27:08.132 UTC [65] FATAL:  role "postgres" does not exist
+rate-api  | [2022-09-14 22:27:08 +0000] [1] [INFO] Starting gunicorn 20.1.0
+rate-api  | [2022-09-14 22:27:08 +0000] [1] [INFO] Listening at: http://0.0.0.0:3000 (1)
+rate-api  | [2022-09-14 22:27:08 +0000] [1] [INFO] Using worker: sync
+rate-api  | [2022-09-14 22:27:08 +0000] [8] [INFO] Booting worker with pid: 8
+rate-db   | 2022-09-14 22:27:10.850 UTC [73] FATAL:  role "-c" does not exist
+rate-db   | 2022-09-14 22:27:13.505 UTC [80] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:27:18.786 UTC [87] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:27:24.070 UTC [94] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:27:29.334 UTC [101] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:27:34.592 UTC [109] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:27:39.866 UTC [116] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:27:45.160 UTC [123] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:27:50.454 UTC [130] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:27:55.739 UTC [137] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:28:01.050 UTC [144] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:28:06.324 UTC [152] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:28:11.612 UTC [159] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:28:16.899 UTC [166] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:28:22.184 UTC [173] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:28:27.488 UTC [180] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:28:32.775 UTC [187] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:28:38.047 UTC [195] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:28:43.333 UTC [202] FATAL:  role "postgres" does not exist
+rate-api  | [2022-09-14 22:28:44 +0000] [1] [INFO] Handling signal: term
+rate-api  | [2022-09-14 22:28:44 +0000] [8] [INFO] Worker exiting (pid: 8)
+rate-api  | [2022-09-14 22:28:44 +0000] [1] [INFO] Shutting down: Master
+rate-api exited with code 0
+rate-api exited with code 0
+rate-db   | 2022-09-14 22:28:44.729 UTC [1] LOG:  received fast shutdown request
+rate-db   | 2022-09-14 22:28:44.731 UTC [1] LOG:  aborting any active transactions
+rate-db   | 2022-09-14 22:28:44.732 UTC [1] LOG:  background worker "logical replication launcher" (PID 58) exited with exit code 1
+rate-db   | 2022-09-14 22:28:44.735 UTC [53] LOG:  shutting down
+rate-db   | 2022-09-14 22:28:44.748 UTC [1] LOG:  database system is shut down
+rate-db exited with code 0
+rate-db exited with code 0
+Network docker_default  Creating
+Network docker_default  Created
+Volume "docker_dbstore"  Creating
+Volume "docker_dbstore"  Created
+Container rate-db  Creating
+Container rate-db  Created
+Container rate-api  Creating
+Container rate-api  Created
+Attaching to rate-api, rate-db
+rate-db   | The files belonging to this database system will be owned by user "postgres".
+rate-db   | This user must also own the server process.
+rate-db   | 
+rate-db   | The database cluster will be initialized with locale "en_US.utf8".
+rate-db   | The default database encoding has accordingly been set to "UTF8".
+rate-db   | The default text search configuration will be set to "english".
+rate-db   | 
+rate-db   | Data page checksums are disabled.
+rate-db   | 
+rate-db   | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+rate-db   | creating subdirectories ... ok
+rate-db   | selecting dynamic shared memory implementation ... posix
+rate-db   | selecting default max_connections ... 100
+rate-db   | selecting default shared_buffers ... 128MB
+rate-db   | selecting default time zone ... UTC
+rate-db   | creating configuration files ... ok
+rate-db   | running bootstrap script ... ok
+rate-db   | performing post-bootstrap initialization ... sh: locale: not found
+rate-db   | 2022-09-14 22:29:20.356 UTC [30] WARNING:  no usable system locales were found
+rate-db   | ok
+rate-db   | syncing data to disk ... initdb: warning: enabling "trust" authentication for local connections
+rate-db   | You can change this by editing pg_hba.conf or using the option -A, or
+rate-db   | --auth-local and --auth-host, the next time you run initdb.
+rate-db   | ok
+rate-db   | 
+rate-db   | 
+rate-db   | Success. You can now start the database server using:
+rate-db   | 
+rate-db   |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+rate-db   | 
+rate-db   | waiting for server to start....2022-09-14 22:29:20.740 UTC [36] LOG:  starting PostgreSQL 13.5 on aarch64-unknown-linux-musl, compiled by gcc (Alpine 10.3.1_git20211027) 10.3.1 20211027, 64-bit
+rate-db   | 2022-09-14 22:29:20.742 UTC [36] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rate-db   | 2022-09-14 22:29:20.746 UTC [37] LOG:  database system was shut down at 2022-09-14 22:29:20 UTC
+rate-db   | 2022-09-14 22:29:20.748 UTC [36] LOG:  database system is ready to accept connections
+rate-db   |  done
+rate-db   | server started
+rate-db   | 
+rate-db   | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/pg_init.sql
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   |  set_config 
+rate-db   | ------------
+rate-db   |  
+rate-db   | (1 row)
+rate-db   | 
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | CREATE TABLE
+rate-db   | CREATE TABLE
+rate-db   | CREATE TABLE
+rate-db   | COPY 143
+rate-db   | COPY 56689
+rate-db   | COPY 20
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | 
+rate-db   | 
+rate-db   | waiting for server to shut down....2022-09-14 22:29:20.937 UTC [36] LOG:  received fast shutdown request
+rate-db   | 2022-09-14 22:29:20.938 UTC [36] LOG:  aborting any active transactions
+rate-db   | 2022-09-14 22:29:20.939 UTC [36] LOG:  background worker "logical replication launcher" (PID 43) exited with exit code 1
+rate-db   | 2022-09-14 22:29:20.940 UTC [38] LOG:  shutting down
+rate-db   | 2022-09-14 22:29:20.966 UTC [36] LOG:  database system is shut down
+rate-db   |  done
+rate-db   | server stopped
+rate-db   | 
+rate-db   | PostgreSQL init process complete; ready for start up.
+rate-db   | 
+rate-db   | 2022-09-14 22:29:21.055 UTC [1] LOG:  starting PostgreSQL 13.5 on aarch64-unknown-linux-musl, compiled by gcc (Alpine 10.3.1_git20211027) 10.3.1 20211027, 64-bit
+rate-db   | 2022-09-14 22:29:21.056 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+rate-db   | 2022-09-14 22:29:21.056 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+rate-db   | 2022-09-14 22:29:21.058 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rate-db   | 2022-09-14 22:29:21.060 UTC [50] LOG:  database system was shut down at 2022-09-14 22:29:20 UTC
+rate-db   | 2022-09-14 22:29:21.062 UTC [1] LOG:  database system is ready to accept connections
+rate-api  | [2022-09-14 22:29:26 +0000] [1] [INFO] Starting gunicorn 20.1.0
+rate-api  | [2022-09-14 22:29:26 +0000] [1] [INFO] Listening at: http://0.0.0.0:3000 (1)
+rate-api  | [2022-09-14 22:29:26 +0000] [1] [INFO] Using worker: sync
+rate-api  | [2022-09-14 22:29:26 +0000] [8] [INFO] Booting worker with pid: 8
+rate-api  | [2022-09-14 22:56:51 +0000] [1] [INFO] Handling signal: term
+rate-api  | [2022-09-14 22:56:51 +0000] [8] [INFO] Worker exiting (pid: 8)
+rate-api  | [2022-09-14 22:56:51 +0000] [1] [INFO] Shutting down: Master
+rate-api exited with code 0
+rate-api exited with code 0
+rate-db   | 2022-09-14 22:56:51.736 UTC [1] LOG:  received fast shutdown request
+rate-db   | 2022-09-14 22:56:51.737 UTC [1] LOG:  aborting any active transactions
+rate-db   | 2022-09-14 22:56:51.741 UTC [1] LOG:  background worker "logical replication launcher" (PID 56) exited with exit code 1
+rate-db   | 2022-09-14 22:56:51.744 UTC [51] LOG:  shutting down
+rate-db   | 2022-09-14 22:56:51.773 UTC [1] LOG:  database system is shut down
+rate-db exited with code 0
+rate-db exited with code 0
+Network docker_default  Creating
+Network docker_default  Created
+Volume "docker_dbstore"  Creating
+Volume "docker_dbstore"  Created
+Container rate-db  Creating
+Container rate-db  Created
+Container rate-api  Creating
+Container rate-api  Created
+Attaching to rate-api, rate-db
+rate-db   | The files belonging to this database system will be owned by user "postgres".
+rate-db   | This user must also own the server process.
+rate-db   | 
+rate-db   | The database cluster will be initialized with locale "en_US.utf8".
+rate-db   | The default database encoding has accordingly been set to "UTF8".
+rate-db   | The default text search configuration will be set to "english".
+rate-db   | 
+rate-db   | Data page checksums are disabled.
+rate-db   | 
+rate-db   | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+rate-db   | creating subdirectories ... ok
+rate-db   | selecting dynamic shared memory implementation ... posix
+rate-db   | selecting default max_connections ... 100
+rate-db   | selecting default shared_buffers ... 128MB
+rate-db   | selecting default time zone ... UTC
+rate-db   | creating configuration files ... ok
+rate-db   | running bootstrap script ... ok
+rate-db   | performing post-bootstrap initialization ... sh: locale: not found
+rate-db   | 2022-09-14 22:57:28.264 UTC [31] WARNING:  no usable system locales were found
+rate-db   | ok
+rate-db   | syncing data to disk ... initdb: warning: enabling "trust" authentication for local connections
+rate-db   | You can change this by editing pg_hba.conf or using the option -A, or
+rate-db   | --auth-local and --auth-host, the next time you run initdb.
+rate-db   | ok
+rate-db   | 
+rate-db   | 
+rate-db   | Success. You can now start the database server using:
+rate-db   | 
+rate-db   |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+rate-db   | 
+rate-db   | waiting for server to start....2022-09-14 22:57:28.655 UTC [37] LOG:  starting PostgreSQL 13.5 on aarch64-unknown-linux-musl, compiled by gcc (Alpine 10.3.1_git20211027) 10.3.1 20211027, 64-bit
+rate-db   | 2022-09-14 22:57:28.656 UTC [37] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rate-db   | 2022-09-14 22:57:28.659 UTC [38] LOG:  database system was shut down at 2022-09-14 22:57:28 UTC
+rate-db   | 2022-09-14 22:57:28.661 UTC [37] LOG:  database system is ready to accept connections
+rate-db   |  done
+rate-db   | server started
+rate-db   | CREATE DATABASE
+rate-db   | 
+rate-db   | 
+rate-db   | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/pg_init.sql
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   |  set_config 
+rate-db   | ------------
+rate-db   |  
+rate-db   | (1 row)
+rate-db   | 
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | CREATE TABLE
+rate-db   | CREATE TABLE
+rate-db   | CREATE TABLE
+rate-db   | COPY 143
+rate-db   | COPY 56689
+rate-db   | COPY 20
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | 
+rate-db   | 
+rate-db   | 2022-09-14 22:57:28.914 UTC [37] LOG:  received fast shutdown request
+rate-db   | waiting for server to shut down....2022-09-14 22:57:28.916 UTC [37] LOG:  aborting any active transactions
+rate-db   | 2022-09-14 22:57:28.916 UTC [37] LOG:  background worker "logical replication launcher" (PID 44) exited with exit code 1
+rate-db   | 2022-09-14 22:57:28.917 UTC [39] LOG:  shutting down
+rate-db   | 2022-09-14 22:57:28.940 UTC [37] LOG:  database system is shut down
+rate-db   |  done
+rate-db   | server stopped
+rate-db   | 
+rate-db   | PostgreSQL init process complete; ready for start up.
+rate-db   | 
+rate-db   | 2022-09-14 22:57:29.030 UTC [1] LOG:  starting PostgreSQL 13.5 on aarch64-unknown-linux-musl, compiled by gcc (Alpine 10.3.1_git20211027) 10.3.1 20211027, 64-bit
+rate-db   | 2022-09-14 22:57:29.030 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+rate-db   | 2022-09-14 22:57:29.030 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+rate-db   | 2022-09-14 22:57:29.033 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rate-db   | 2022-09-14 22:57:29.036 UTC [53] LOG:  database system was shut down at 2022-09-14 22:57:28 UTC
+rate-db   | 2022-09-14 22:57:29.038 UTC [1] LOG:  database system is ready to accept connections
+rate-db   | 2022-09-14 22:57:33.266 UTC [66] FATAL:  role "postgres" does not exist
+rate-api  | [2022-09-14 22:57:33 +0000] [1] [INFO] Starting gunicorn 20.1.0
+rate-api  | [2022-09-14 22:57:33 +0000] [1] [INFO] Listening at: http://0.0.0.0:3000 (1)
+rate-api  | [2022-09-14 22:57:33 +0000] [1] [INFO] Using worker: sync
+rate-api  | [2022-09-14 22:57:33 +0000] [8] [INFO] Booting worker with pid: 8
+rate-db   | 2022-09-14 22:57:38.648 UTC [73] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:57:43.931 UTC [88] FATAL:  role "postgres" does not exist
+rate-db   | 2022-09-14 22:57:49.210 UTC [95] FATAL:  role "postgres" does not exist
+rate-api  | [2022-09-14 22:57:53 +0000] [1] [INFO] Handling signal: term
+rate-api  | [2022-09-14 22:57:53 +0000] [8] [INFO] Worker exiting (pid: 8)
+rate-api  | [2022-09-14 22:57:53 +0000] [1] [INFO] Shutting down: Master
+rate-api exited with code 0
+rate-api exited with code 0
+rate-db   | 2022-09-14 22:57:54.426 UTC [1] LOG:  received fast shutdown request
+rate-db   | 2022-09-14 22:57:54.427 UTC [1] LOG:  aborting any active transactions
+rate-db   | 2022-09-14 22:57:54.429 UTC [1] LOG:  background worker "logical replication launcher" (PID 59) exited with exit code 1
+rate-db   | 2022-09-14 22:57:54.430 UTC [54] LOG:  shutting down
+rate-db   | 2022-09-14 22:57:54.446 UTC [1] LOG:  database system is shut down
+rate-db exited with code 0
+rate-db exited with code 0
+Network docker_default  Creating
+Network docker_default  Created
+Volume "docker_dbstore"  Creating
+Volume "docker_dbstore"  Created
+Container rate-db  Creating
+Container rate-db  Created
+Container rate-api  Creating
+Container rate-api  Created
+Attaching to rate-api, rate-db
+rate-db   | The files belonging to this database system will be owned by user "postgres".
+rate-db   | This user must also own the server process.
+rate-db   | 
+rate-db   | The database cluster will be initialized with locale "en_US.utf8".
+rate-db   | The default database encoding has accordingly been set to "UTF8".
+rate-db   | The default text search configuration will be set to "english".
+rate-db   | 
+rate-db   | Data page checksums are disabled.
+rate-db   | 
+rate-db   | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+rate-db   | creating subdirectories ... ok
+rate-db   | selecting dynamic shared memory implementation ... posix
+rate-db   | selecting default max_connections ... 100
+rate-db   | selecting default shared_buffers ... 128MB
+rate-db   | selecting default time zone ... UTC
+rate-db   | creating configuration files ... ok
+rate-db   | running bootstrap script ... ok
+rate-db   | performing post-bootstrap initialization ... sh: locale: not found
+rate-db   | 2022-09-14 22:58:30.034 UTC [30] WARNING:  no usable system locales were found
+rate-db   | ok
+rate-db   | syncing data to disk ... initdb: warning: enabling "trust" authentication for local connections
+rate-db   | You can change this by editing pg_hba.conf or using the option -A, or
+rate-db   | --auth-local and --auth-host, the next time you run initdb.
+rate-db   | ok
+rate-db   | 
+rate-db   | 
+rate-db   | Success. You can now start the database server using:
+rate-db   | 
+rate-db   |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+rate-db   | 
+rate-db   | waiting for server to start....2022-09-14 22:58:30.429 UTC [36] LOG:  starting PostgreSQL 13.5 on aarch64-unknown-linux-musl, compiled by gcc (Alpine 10.3.1_git20211027) 10.3.1 20211027, 64-bit
+rate-db   | 2022-09-14 22:58:30.430 UTC [36] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rate-db   | 2022-09-14 22:58:30.434 UTC [37] LOG:  database system was shut down at 2022-09-14 22:58:30 UTC
+rate-db   | 2022-09-14 22:58:30.436 UTC [36] LOG:  database system is ready to accept connections
+rate-db   |  done
+rate-db   | server started
+rate-db   | 
+rate-db   | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/pg_init.sql
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   |  set_config 
+rate-db   | ------------
+rate-db   |  
+rate-db   | (1 row)
+rate-db   | 
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | SET
+rate-db   | CREATE TABLE
+rate-db   | CREATE TABLE
+rate-db   | CREATE TABLE
+rate-db   | COPY 143
+rate-db   | COPY 56689
+rate-db   | COPY 20
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | ALTER TABLE
+rate-db   | 
+rate-db   | 
+rate-db   | waiting for server to shut down....2022-09-14 22:58:30.651 UTC [36] LOG:  received fast shutdown request
+rate-db   | 2022-09-14 22:58:30.652 UTC [36] LOG:  aborting any active transactions
+rate-db   | 2022-09-14 22:58:30.653 UTC [36] LOG:  background worker "logical replication launcher" (PID 43) exited with exit code 1
+rate-db   | 2022-09-14 22:58:30.653 UTC [38] LOG:  shutting down
+rate-db   | 2022-09-14 22:58:30.674 UTC [36] LOG:  database system is shut down
+rate-db   |  done
+rate-db   | server stopped
+rate-db   | 
+rate-db   | PostgreSQL init process complete; ready for start up.
+rate-db   | 
+rate-db   | 2022-09-14 22:58:30.771 UTC [1] LOG:  starting PostgreSQL 13.5 on aarch64-unknown-linux-musl, compiled by gcc (Alpine 10.3.1_git20211027) 10.3.1 20211027, 64-bit
+rate-db   | 2022-09-14 22:58:30.771 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+rate-db   | 2022-09-14 22:58:30.771 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+rate-db   | 2022-09-14 22:58:30.773 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rate-db   | 2022-09-14 22:58:30.776 UTC [50] LOG:  database system was shut down at 2022-09-14 22:58:30 UTC
+rate-db   | 2022-09-14 22:58:30.778 UTC [1] LOG:  database system is ready to accept connections
+rate-api  | [2022-09-14 22:58:35 +0000] [1] [INFO] Starting gunicorn 20.1.0
+rate-api  | [2022-09-14 22:58:35 +0000] [1] [INFO] Listening at: http://0.0.0.0:3000 (1)
+rate-api  | [2022-09-14 22:58:35 +0000] [1] [INFO] Using worker: sync
+rate-api  | [2022-09-14 22:58:35 +0000] [8] [INFO] Booting worker with pid: 8

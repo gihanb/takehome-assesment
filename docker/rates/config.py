@@ -1,6 +1,6 @@
 DB = {
     "host": "db",
-    "user": "foo",
-    "password": "bar",
+    "user": "postgres",
+    "password": "postgres",
     "port": "5432"
 }
