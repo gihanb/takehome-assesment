@@ -45,6 +45,8 @@ n
 
 That's all for the basic run...
 
+The script will check the application status and exit when only it's healthy. So once script ran you will have the complete environment.
+
 Generally you are free to do any change related to code change or data related change.
 
 Please make sure not to change file names. Since bash script is sensitive to file name or file location changes.
