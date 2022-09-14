@@ -1,0 +1,5 @@
+docker/.env-e
+docker/rates/config.py-e
+operations-task/rates/config.py-e
+*.*-e
+docker/nohup.out
