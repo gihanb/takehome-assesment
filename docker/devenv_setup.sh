@@ -22,6 +22,7 @@ fi
 
 ####
 
+# Cleaning up the environment
 
 docker system prune -f
 docker image ls
@@ -46,10 +47,13 @@ cp -r ../operations-task/rates .
 
 cat ../operations-task/db/rates.sql > pg_init.sql
 
+# For troubelshooting purpose comment the nohup and enable the general docker compose up
 
 docker-compose -f docker-compose-pg.yaml build
 #docker-compose -f docker-compose-pg.yaml up
 nohup docker-compose -f docker-compose-pg.yaml up &
+
+#Health Check
 
 sleep 5
 # waiting for application to be respond
