@@ -84,9 +84,9 @@ DB_HOST=localhost
 
 Here both application configuration and docker environment files will change. At the moment both host and port not avilable for change via commandline arguments.
 
-host -: is docker compose template service value and mostly it's static
+host -: Docker compose template service value and mostly it's static
 
-port -: port can include into commandline arguments but it's a 5432 is the general port for postgres.
+port -: port can include into commandline arguments but it's a 5432.It is general port for postgres.
 
 <h3> Tested Environments </h3>
 
