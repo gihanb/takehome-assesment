@@ -60,7 +60,7 @@ sleep 5
 
 echo "${GREEN} waiting DB to be responding"
 
-until $(curl --output /dev/null --silent --head --fail http://0.0.0.0:3000); do
+until $(curl --output /dev/null --silent --head --fail http://127.0.0.1:3000); do
     printf '.'
     sleep 5
 done
